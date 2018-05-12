@@ -1,0 +1,39 @@
+_repo: The-Corner-House-Girls-on-a-TourWhere-they-went-what-they-saw-and-what-they-found_36251
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Brooks
+    gutenberg_agent_id: '9684'
+    url: http://www.gutenberg.org/2009/agents/9684
+description: ''
+gutenberg_issued: '2011-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Automobile travel -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Traveling sales personnel -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'School children -- Juvenile fiction'
+title: 'The Corner House Girls on a Tour
+
+  Where they went, what they saw, and what they found'
+url: http://www.gutenberg.org/ebooks/36251
