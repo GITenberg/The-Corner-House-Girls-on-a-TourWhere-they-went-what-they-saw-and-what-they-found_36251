@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9684'
     url: http://www.gutenberg.org/2009/agents/9684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36251#The-Corner-House-Girls-on-a-TourWhere-they-went-what-they-saw-and-what-they-found
 gutenberg_issued: '2011-05-29'
 gutenberg_type: Text
 identifiers:
